@@ -1,4 +1,5 @@
 # React + Vite
+https://jhonatan-b.github.io/react-vite-and-morty/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
